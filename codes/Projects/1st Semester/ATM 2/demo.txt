@@ -1,0 +1,3 @@
+Account No.	Name	Username	Pin	Balance	Debt	Admit By	
+1	Huzaifa	huzaifana	1234	100000	0	Abdur Rehman	
+2	Ashir	ashiraf	1246	100000	0	Abdur Rehman	

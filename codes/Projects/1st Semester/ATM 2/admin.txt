@@ -1,0 +1,2 @@
+Name	Username	Pin	Post	Add By	
+Abdur Rehman	rehmanaz	1234	Manager	Himself	
